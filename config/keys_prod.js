@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: 'mongodb://localhost:27017/authtest',
+  mongoURI: 'mongodb+srv://dazzle:immutablejs@cluster0-3zdv4.mongodb.net/dazzlecms?retryWrites=true',
   secretOrKey: 'secret',
 };
